@@ -19,7 +19,7 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 | **Category** | **Component**                         |
 | ------------ | ------------------------------------- |
 | **CPU**      | 1.6GHz Intel Core i5-8250U            |
-| **GPU**      | Intel UHD 620                         |
+| **GPU**      | Intel UHD 620 & Nvidia MX150 (Disable)|
 | **RAM**      | 12GB (4GB non-removable) 2133MHz DDR4 |
 | **SSD**      | 256GB SATA SSD (SP Silicon)      |
 | **Display**  | 15,6" 1080p LCD non-touch display     |
