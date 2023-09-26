@@ -1,4 +1,4 @@
-# Lenovo-Ideapad-320-Opencore
+# Lenovo-Ideapad-320-Opencore-MOD
 Lenovo Ideapad 320 15IKB (81BG Type) EFI
 
 :information_source: **The current version is fully macOS compatible based on my laptop hardware.**
